@@ -172,7 +172,7 @@ function MainScheduler() {
           style={{ maxWidth: 300, padding: 25 }}
         />
       </header>
-      <label>A CoFi Special Business Venture!</label>
+      <label>A Special Business Venture!</label>
       <br />
       <label>
         <i>
